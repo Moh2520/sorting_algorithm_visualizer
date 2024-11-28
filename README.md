@@ -1,1 +1,1 @@
-Welcome to my Sorting Algorithm Visualizer. I am passionate about algorithms and data structures as well as how they are visualized. This React web application visualizes a variety of different sorting algorithms. It is deployed at: https://noahjpark.github.io/Sorting-Algorithm-Visualizer/.
+Welcome to my Sorting Algorithm Visualizer.HI
